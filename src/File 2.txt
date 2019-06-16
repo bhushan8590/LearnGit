@@ -1,3 +1,6 @@
 This is file second
 Already some changes get merged
+
+
 Making new changes from remote
+Making my changes on local with STRY-147

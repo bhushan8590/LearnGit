@@ -1,2 +1,3 @@
 This is file one
 This changes already mergerd by A
+My new changes for file 1 as per STRY-147
