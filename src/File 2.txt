@@ -1,2 +1,3 @@
 This is file second
 Already some changes get merged
+Making new changes from remote
